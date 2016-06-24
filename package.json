@@ -1,0 +1,7 @@
+{
+  "version":"1.0.0",
+  "scripts":{"start":"node app.js"},
+  "dependencies":{"webworker-threads": "*", "node-crontab": "*"},
+  "name":"bluemix-heart",
+  "description":"This is a Bluemix demo"
+}
