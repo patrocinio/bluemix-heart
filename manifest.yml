@@ -1,0 +1,6 @@
+applications:
+- name: bluemix—heart-${random-word}
+  memory: 256M
+  instances: 1
+  path: .
+  command: node app.js
